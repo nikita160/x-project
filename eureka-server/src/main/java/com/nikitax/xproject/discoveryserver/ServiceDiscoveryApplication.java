@@ -1,4 +1,4 @@
-package com.nikitax.xproject.discovery;
+package com.nikitax.xproject.discoveryserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
