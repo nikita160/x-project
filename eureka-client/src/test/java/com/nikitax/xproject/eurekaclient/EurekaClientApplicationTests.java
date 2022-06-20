@@ -1,4 +1,4 @@
-package com.nikitax.xproject.discoveryserver.eurekaclient;
+package com.nikitax.xproject.eurekaclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

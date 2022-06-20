@@ -1,4 +1,4 @@
-package com.nikitax.xproject.discovery.eurekaclient;
+package com.nikitax.xproject.eurekaclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
